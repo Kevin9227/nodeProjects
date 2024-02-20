@@ -1,2 +1,2 @@
-# NLW_Copa2022
- Pratica e teuoria
+# Projectos em NODEJS
+ Pratica...
